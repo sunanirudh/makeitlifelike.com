@@ -6,7 +6,7 @@
 	<!-- Contents -->
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 	<meta http-equiv="Content-Language" content="en" />
-	<meta http-equiv="last-modified" content="29/06/2025 18:47:09" />
+	<meta http-equiv="last-modified" content="29/06/2025 19:24:01" />
 	<meta http-equiv="Content-Type-Script" content="text/javascript" />
 	<meta name="description" content="Destination of dream work" />
 	<meta name="keywords" content="wood working, gift, show, beautiful, wood, wooden" />
@@ -54,8 +54,8 @@
 <ul>
 	<li><a href="index.html" title="">Home Page</a></li>
 	<li><a href="collection.html" title="">Collection</a></li>
-	<li><a href="page_2.html" title="">Page 2</a></li>
-	<li><a href="page_3.html" title="">Page 3</a></li>
+	<li><a href="we.html" title="">We</a></li>
+	<li><a href="contact_us.html" title="">Contact Us</a></li>
 </ul>
 </div>
 <!-- Menu END -->
@@ -65,7 +65,7 @@
 <a name="imGoToCont"></a>
 	<div id="imContent">
 <?php 
-$files = array("index.html","collection.html","page_2.html","page_3.html");
+$files = array("index.html","collection.html","we.html","contact_us.html","thank_you.html");
 ?>
 <div id="imSText">
 <?php
